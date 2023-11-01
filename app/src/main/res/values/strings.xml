@@ -2,4 +2,7 @@
     <string name="app_name">TugasMobile</string>
     <string name="btn_get_started">Get Started</string>
     <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_up">Doesn\'t have an account? Sign up now!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
 </resources>

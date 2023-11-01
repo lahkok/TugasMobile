@@ -25,6 +25,18 @@
             android:name=".LoginActivity"
             android:exported="true">
         </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".HomepageActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="true">
+        </activity>
     </application>
 
 </manifest>

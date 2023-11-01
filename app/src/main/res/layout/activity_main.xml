@@ -6,7 +6,8 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity"
         android:gravity="center|bottom"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@color/white">
 
         <Button
             android:id="@+id/btnStart"
@@ -18,6 +19,7 @@
             android:textColor="@color/white"
             android:backgroundTint="@color/blue"
             android:textSize="15sp"
+            android:foreground="?android:attr/selectableItemBackgroundBorderless"
             />
 
     </LinearLayout>
